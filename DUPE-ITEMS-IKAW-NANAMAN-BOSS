@@ -10,7 +10,7 @@ OrionLib:MakeNotification({
 
 
 getgenv().gui = false
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptingHubs/HiddenScripts/main/EasthubOrionLibrary"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Carti2622/easehub-scriipts/main/kuridangngua%20trial.txt?token=GHSAT0AAAAAACUNTLFC3SK6HGQ3W2YBE44AZVNQIIQ"))()
 local Tab = Window:MakeTab({
     Name = "Dupe Guns 🔫",
     Icon = "rbxassetid://4483345998",
